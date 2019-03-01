@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
 
   spec.license      = { :type => "Apache License 2.0", :file => "LICENSE" }
 
-  spec.author       = { "TicketMaster" }
+  spec.author       = "TicketMaster"
 
   spec.platform     = :ios, "9.0"
 
